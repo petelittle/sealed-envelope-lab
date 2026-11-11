@@ -1,0 +1,4 @@
+Hello from inside a sealed envelope.
+
+If you can read this after opening it, the exercise worked: the envelope was
+verified, opened with the intended private key, and restored unchanged.

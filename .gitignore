@@ -1,0 +1,23 @@
+# Local learning keys - never commit private keys
+*-keys.json
+*.keys.json
+keys/
+keys.json
+
+# Local envelopes and opened files
+envelope.json
+envelopes/
+opened/
+opened-*/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
